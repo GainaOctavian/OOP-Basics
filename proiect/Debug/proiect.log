@@ -1,0 +1,61 @@
+﻿  Source.cpp
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(36,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(43,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(50,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(68,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(91,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(237,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(271,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(441,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(446,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(448,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(461,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(467,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(493,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(500,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(508,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(529,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(553,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(685,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(721,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(812,25): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(837,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(904,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(923,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(946,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1069,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1110,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1186,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1213,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1219,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1226,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1239,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1258,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1359,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1380,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1444,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1480,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1488,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1496,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1521,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1556,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1705,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1738,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1820,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2069,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2250,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2396,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2450,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2616,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2667,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2672,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2674,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2687,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2693,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(2813,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(158): warning C4715: 'Angajat::operator[]': not all control paths return a value
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(771): warning C4715: 'Produs::operator[]': not all control paths return a value
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1130): warning C4715: 'Furnizor::operator[]': not all control paths return a value
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1451): warning C4715: 'Investitor::operator[]': not all control paths return a value
+C:\Users\Octavian\source\repos\proiect\proiect\Source.cpp(1780): warning C4715: 'Proprietate::operator[]': not all control paths return a value
+  proiect.vcxproj -> C:\Users\Octavian\source\repos\proiect\Debug\proiect.exe
